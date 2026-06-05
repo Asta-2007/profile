@@ -2,5 +2,5 @@
 ```
   name muhammad rizan
   jurusan informatika
-  hoby : making friend with homeless
+  hoby : making something interesting
 ```
